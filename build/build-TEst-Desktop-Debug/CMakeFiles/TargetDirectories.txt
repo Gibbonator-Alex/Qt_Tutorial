@@ -1,8 +1,0 @@
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/TEst.dir
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/install.dir
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/install/local.dir
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/install/strip.dir
-/home/alexander/QtCreator_Applications/Qt_Tutorial/build/build-TEst-Desktop-Debug/CMakeFiles/TEst_autogen.dir
